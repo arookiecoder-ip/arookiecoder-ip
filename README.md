@@ -43,19 +43,17 @@ My journey is about **turning curiosity into code** and **ideas into real projec
 <div align="left">
   
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png"/>
+  <a href="https://www.linkedin.com/jit-karmakar-997247319" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" style="margin-right: 15px;"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png"/>
+  <a href="https://twitter.com/uint.404" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" style="margin-right: 15px;"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png"/>
-  </a>
-  <a href="https://github.com/arookiecoder-ip" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>
+  <a href="mailto:arookiecoder@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" style="margin-right: 15px;"/>
   </a>
 </p>
+
 
 </div>  
 
