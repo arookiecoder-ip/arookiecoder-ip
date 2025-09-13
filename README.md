@@ -6,39 +6,6 @@ My journey is about **turning curiosity into code** and **ideas into real projec
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 Self-taught developer with a strong interest in **software engineering & distributed systems**  
-- 💻 Skilled in **Python, JavaScript, and Linux-based development**  
-- ☁️ Exploring **Cloud platforms (AWS, DigitalOcean) and containerization (Docker, Kubernetes)**  
-- 🔗 Fascinated by **Blockchain technology** — especially its potential for **decentralized applications, tokenization, and smart contracts**  
-- 🔍 Enthusiastic about **automation, open-source, and building developer-friendly tools**  
-- 📝 Documenting my learning journey through projects & contributions  
-- 🎯 Career goal: Grow into a role where I can design scalable systems, work with **Web3 technologies**, and contribute to impactful open-source projects  
----
-
-## 📊 GitHub Stats & Progress  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arookiecoder-ip&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arookiecoder-ip&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=arookiecoder-ip&theme=tokyonight&hide_border=true)  
-
----
-
-## 🏆 Achievements & Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arookiecoder-ip&theme=tokyonight&margin-w=10&margin-h=10)  
-
----
-
-## 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arookiecoder-ip&theme=tokyo-night)  
-
----
-
-## 📌 Featured Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arookiecoder-ip&repo=eth-address-generator&theme=tokyonight)](https://github.com/arookiecoder-ip/eth-address-generator)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arookiecoder-ip&repo=RPC_Request&theme=tokyonight)](https://github.com/arookiecoder-ip/RPC_Request)  
-
----
-
 ## 🌐 Connect With Me  
 <div align="left">
   
