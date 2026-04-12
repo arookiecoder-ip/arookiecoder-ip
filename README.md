@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jit Karmakar!  
+# 👋 Hey, I'm Jit!  
 
 Welcome to my GitHub profile! 🚀  
 I’m an explorer in tech — learning, building, and breaking things (so I can rebuild them better).  
