@@ -10,7 +10,7 @@ My journey is about **turning curiosity into code** and **ideas into real projec
 <div align="left">
   
 <p align="left">
-  <a href="https://www.linkedin.com/jit-karmakar-997247319" target="_blank">
+  <a href="https://www.linkedin.com/arookiecoder" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" style="margin-right: 15px;"/>
   </a>
   <a href="https://twitter.com/uint404" target="_blank">
