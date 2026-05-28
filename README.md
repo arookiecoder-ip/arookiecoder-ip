@@ -25,10 +25,3 @@ My journey is about **turning curiosity into code** and **ideas into real projec
 </div>  
 
 ---
-
-## ☁️ Join DigitalOcean  
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=ff73b6e37b30&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)  
-
----
-
-⭐️ *Thanks for stopping by! I’m always learning — so if you have tips, project ideas, or just want to connect, feel free to reach out.* ⭐️  
