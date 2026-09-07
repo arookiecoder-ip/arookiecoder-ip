@@ -29,13 +29,21 @@ jobs:
           path: github-widgets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          card: streak
-          options: user=arookiecoder-ip&theme=tokyonight&hide_border=true
-          path: github-widgets/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          user_id: 121660200
+          theme: tokyonight
+          hide_border: true
+          exclude_days: ""
+          mode: daily
+
+      - name: Move streak SVG
+        run: |
+          mkdir -p github-widgets
+          mv -f github-readme-streak-stats/streak-stats.svg github-widgets/streak.svg 2>/dev/null || true
 
       - name: Commit and push
         run: |
