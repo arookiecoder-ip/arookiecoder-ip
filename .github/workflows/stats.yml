@@ -1,0 +1,46 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=arookiecoder-ip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
+          path: github-widgets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=arookiecoder-ip&layout=compact&theme=tokyonight&hide_border=true
+          path: github-widgets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: user=arookiecoder-ip&theme=tokyonight&hide_border=true
+          path: github-widgets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-widgets/*.svg
+          git diff --staged --quiet || git commit -m "chore: update GitHub stats SVGs [skip ci]"
+          git push
